@@ -16,7 +16,7 @@
               "subtopics": [
                 {
                   "title": "Min Heap Implementation",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "",
@@ -26,7 +26,7 @@
                 },
                 {
                   "title": "Max Heap Implementation",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "",
@@ -36,7 +36,7 @@
                 },
                 {
                   "title": "Convert Min Heap to Max Heap",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "",
@@ -46,7 +46,7 @@
                 },
                 {
                   "title": "Heap Sort",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "",
@@ -61,7 +61,7 @@
               "subtopics": [
                 {
                   "title": "Kth Largest Element in an Array",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
@@ -71,7 +71,7 @@
                 },
                 {
                   "title": "Kth Smallest Element in a Sorted Matrix",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
@@ -81,7 +81,7 @@
                 },
                 {
                   "title": "K Closest Points to Origin",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/k-closest-points-to-origin/",
@@ -91,7 +91,7 @@
                 },
                 {
                   "title": "Kth Largest Sum Subarray",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "",
@@ -106,7 +106,7 @@
               "subtopics": [
                 {
                   "title": "Top K Frequent Elements",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/top-k-frequent-elements/",
@@ -116,17 +116,17 @@
                 },
                 {
                   "title": "Top K Frequent Words",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/top-k-frequent-words/",
-                    "gfg": "https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1",
+                    "gfg": "",
                     "youtube": "https://www.youtube.com/results?search_query=top+k+frequent+words+leetcode+692"
                   }
                 },
                 {
                   "title": "Sort Characters By Frequency",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/sort-characters-by-frequency/",
@@ -136,7 +136,7 @@
                 },
                 {
                   "title": "Reorganize String",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/reorganize-string/",
@@ -146,7 +146,7 @@
                 },
                 {
                   "title": "Task Scheduler",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/task-scheduler/",
@@ -161,7 +161,7 @@
               "subtopics": [
                 {
                   "title": "Merge K Sorted Lists",
-                  "difficulty": "hard",
+                  "difficulty": "Hard",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/merge-k-sorted-lists/",
@@ -171,7 +171,7 @@
                 },
                 {
                   "title": "Merge K Sorted Arrays",
-                  "difficulty": "hard",
+                  "difficulty": "Hard",
                   "status": "not-started",
                   "links": {
                     "leetcode": "",
@@ -181,7 +181,7 @@
                 },
                 {
                   "title": "Smallest Range Covering Elements from K Lists",
-                  "difficulty": "hard",
+                  "difficulty": "Hard",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/",
@@ -196,7 +196,7 @@
               "subtopics": [
                 {
                   "title": "Find Median from Data Stream",
-                  "difficulty": "hard",
+                  "difficulty": "Hard",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/find-median-from-data-stream/",
@@ -206,7 +206,7 @@
                 },
                 {
                   "title": "Sliding Window Median",
-                  "difficulty": "hard",
+                  "difficulty": "Hard",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/sliding-window-median/",
@@ -216,7 +216,7 @@
                 },
                 {
                   "title": "IPO (Maximize Capital)",
-                  "difficulty": "hard",
+                  "difficulty": "Hard",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/ipo/",
@@ -231,7 +231,7 @@
               "subtopics": [
                 {
                   "title": "Minimum Cost to Connect Sticks (Ropes)",
-                  "difficulty": "medium",
+                  "difficulty": "Medium",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
@@ -241,7 +241,7 @@
                 },
                 {
                   "title": "Last Stone Weight",
-                  "difficulty": "easy",
+                  "difficulty": "Easy",
                   "status": "not-started",
                   "links": {
                     "leetcode": "https://leetcode.com/problems/last-stone-weight/",
